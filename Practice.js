@@ -1,6 +1,6 @@
 const fun=()=>{
-    console.log("Hi iam GITHUB PRACTICE FILE--- Ramesh");
-    console.log("Hi Iam log statement from Ramesh branch");
+    console.log("Hi iam GITHUB PRACTICE FILE--AjayAjayAjay");
+    console.log("Iam from Ajay Branch")
 }
 
 fun();
